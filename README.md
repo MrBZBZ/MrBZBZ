@@ -3,6 +3,7 @@
 
 * 嗨！你好呀👋👋👋
 * 👉我是Leaves_awa👈
+*我的个人博客在https://mrbzbz.github.io/Study/
 * 科技超越魔法，赛博飞升神话！
 * 机械破碎伪神，齿轮抵达黄昏！
 ### 💻 Environment
