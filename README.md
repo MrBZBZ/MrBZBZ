@@ -6,7 +6,7 @@
 * 我对啥都感一点兴趣
 * 我的个人网站在  
 https://bzbz.pages.dev/  
-* 我的个人博客在
+* 我的个人博客在  
 https://bzbzblog.pages.dev/  
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
