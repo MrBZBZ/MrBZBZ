@@ -11,10 +11,8 @@
 * 嗨！你好呀👋👋👋
 * 👉我是Leaves_awa👈
 * 我对啥都感一点兴趣
-* 我的个人网站在  
-https://bzbz.pages.dev/  
-* 我的个人博客在  
-https://bzbzblog.pages.dev/  
+* 个人博客已不再维护，太懒了（悲  
 ### 💻 Environment
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBZBZ&count_private=true&theme=cobalt&show_icons=true)
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
 # 你与我，共赴宇宙之旅，感悟能量的涟漪
